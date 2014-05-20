@@ -1,3 +1,3 @@
 BallGame.github.io
 ==================
-Test is here: http://ballgame.github.io/
+Welcome to the BallGame.
